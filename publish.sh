@@ -10,4 +10,5 @@ git checkout -b gh-pages
 git add .
 git commit -m 'Publish book'
 git push -f --set-upstream origin gh-pages
+cd ..
 rm -rf gh_pages
