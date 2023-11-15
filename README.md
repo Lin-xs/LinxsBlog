@@ -1,0 +1,2 @@
+# LinxsBlog
+my blog
